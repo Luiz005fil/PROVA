@@ -14,4 +14,7 @@ O que é clone?
 É uma cópia do repositório remoto.
 
 O que é brach?
-É uma ramificação de um repositório
+É uma ramificação de um repositório.
+
+O que é pull request?
+É uma solicitação de uma alteração.
