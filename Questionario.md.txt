@@ -1,0 +1,2 @@
+O que é um commit?
+Empacotamento das alterações realizada no projeto
