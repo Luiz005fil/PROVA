@@ -1,32 +1,14 @@
 O que é um commit?
 Empacotamento das alterações realizada no projeto.
 
-O que é um push?
-Enviar as informações que estão empacotadas (COMMIT) para o repositório remoto.
-
-O que é clone?
-Fazer uma cópia do repositório local.
-
 O que é repositório?
 É a pasta do projeto.
 
 O que é pull?
 Ele puxa o repositório remoto para o local.
 
-O que é branch?
-É a ramificação do repositório.
-
 O que é merger?
 Mesclagem de duas ou mais branches.
 
-o que é vcs?
-software de controle de versão.
-
-O que é fork?
-É  uma copia de um repositório de terceiro.
-
-O que é issues?
-É onde um usuário reporta um bug o um problema.
-
-O que é pull requests?
-É uma solicitação de alterações.
+O que é clone?
+É uma cópia do repositório remoto.
