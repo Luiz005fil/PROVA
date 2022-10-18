@@ -24,3 +24,6 @@ Ele é um copia de um repositório terciro.
 
 O que é um VCS?
 software controle de versão.
+
+O que e push?
+Ele envia as informações do COMMIT para o repositório remoto. 
