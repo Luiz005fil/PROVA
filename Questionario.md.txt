@@ -30,4 +30,3 @@ O que é issues?
 
 O que é pull requests?
 É uma solicitação de alterações.
-
