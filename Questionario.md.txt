@@ -1,2 +1,7 @@
 O que é um commit?
-Empacotamento das alterações realizada no projeto
+Empacotamento das alterações realizada no projeto.
+
+O que é um push?
+Enviar as informações que estão empacotadas (COMMIT) para o repositório remoto.
+
+
