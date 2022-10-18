@@ -18,3 +18,9 @@ O que é brach?
 
 O que é pull request?
 É uma solicitação de uma alteração.
+
+O que é fork?
+Ele é um copia de um repositório terciro.
+
+O que é um VCS?
+software controle de versão.
