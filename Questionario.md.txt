@@ -12,3 +12,6 @@ Mesclagem de duas ou mais branches.
 
 O que é clone?
 É uma cópia do repositório remoto.
+
+O que é brach?
+É uma ramificação de um repositório
